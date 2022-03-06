@@ -7,7 +7,7 @@ npm i dwj-cli -g
 
 ### 创建 React 或 Vue 模板
 ```
-dwj create demo -f React(or Vue)
+dwj create demo -f react(or vue)
 ```
 
 ### 添加组件
