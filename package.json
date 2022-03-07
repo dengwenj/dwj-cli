@@ -1,6 +1,6 @@
 {
   "name": "dwj-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A CLI developed for react and vue",
   "main": "index.js",
   "bin": {

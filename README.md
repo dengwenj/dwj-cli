@@ -20,6 +20,6 @@ dwj addcomponent Hello
 dwj addcomponent Hello -d src/pages
 ```
 
-### 后续还会添加新功能，目前还没有 Vue 的，只有 React 的
+### 后续还会添加新功能，目前还没有 Vue3 的，只有 React 的
 **例如：**
 * 生成 router，生成 store 等等
