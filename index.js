@@ -11,10 +11,13 @@ const { program } = require('commander')
 
 const helpOptions = require('./lib/core/options.js')
 const createCommands = require('./lib/core/create')
-
+// const program = createCommands();
 // 查看版本号
 program.version(require('./package.json').version)
 
+// const rootPath = process.cwd();
+// const reactConf = require(`${rootPath}/webpack.config.js`);
+// console.log(reactConf);
 // 选项
 helpOptions()
 
